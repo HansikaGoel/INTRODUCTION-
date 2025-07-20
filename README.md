@@ -10,9 +10,12 @@
 <header> 
 Using Header tag.
 </header>
+<br>
 <main>
+<pre>
 Using Main tag.
 Main tag consist of section, aside and article.
+</pre>
 </main>
 </head>
 </html>
