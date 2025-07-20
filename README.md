@@ -13,3 +13,5 @@ Using Header tag.
 Using Main tag.
 Main tag consist of section, aside and article.
 </main>
+</head>
+</html>
