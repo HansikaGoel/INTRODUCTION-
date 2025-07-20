@@ -1,8 +1,9 @@
 # HTML2
-< ! DOCTYPE HTML>
+< ! DOCTYPE html>
 <html lang ="en">
 <head>
 <title> HTML2 </title>
+<br>
 </head>
 <body>
 <b>
