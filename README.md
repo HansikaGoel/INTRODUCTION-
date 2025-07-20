@@ -1,5 +1,5 @@
 # HTML2
-< ! DOCTYPE html>
+< !DOCTYPE html>
 <html lang ="en">
 <head>
 <title> HTML2 </title>
